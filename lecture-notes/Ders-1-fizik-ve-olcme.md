@@ -163,7 +163,7 @@ Karanlık enerji, evrenin %68’ini oluşturarak kozmik genişlemeyi hızlandır
 
 **Karanlık enerji**: Evrenin ivmeli genişlemesini açıklamak için öne sürülen enerji türü; negatif basınca sahip olduğu düşünülür.
 
-![Big Bang](Big%20bang.PNG)
+![Big Bang](../images/Big%20bang.PNG)
 
 **Uygulama ve Pekiştirme**
 
@@ -226,7 +226,7 @@ Bilimsel iletişimin ortak paydası olan Uluslararası Birim Sistemi (SI), 1960 
 Bu sistem, yalnızca ölçüm yapmanın bir yöntemi değil; doğayı sayılarla anlamanın evrensel dilidir.
 
 SI sistemi, evrendeki temel büyüklükleri yedi ana başlık altında sınıflandırır. Bu büyüklüklerin her biri, zaman içinde gelişen teknoloji ve artan ölçüm hassasiyetiyle birlikte doğa sabitlerine dayalı olarak yeniden tanımlanmıştır. Böylece sistem; sadece evrensel ve tekrarlanabilir değil, aynı zamanda doğanın kendisine referans veren bir ölçüm çerçevesi hâline gelmiştir.
-![Temel Büyüklüler](Temel%20B%C3%BCy%C3%BCkl%C3%BCler.jpg)
+![Temel Büyüklüler](../images/Temel%20B%C3%BCy%C3%BCkl%C3%BCler.jpg)
 
 
 ### **3.4. 2019 Güncellemesi: Doğa Sabitlerine Dayalı Tanımlar**
@@ -234,7 +234,7 @@ SI sistemi, evrendeki temel büyüklükleri yedi ana başlık altında sınıfla
 
 Uluslararası Birimler Sistemi (SI), 2019 yılında yapılan düzenlemelerle birlikte, temel birimlerin tanımını doğrudan ölçülemeyen fiziksel nesnelere değil, doğanın değişmez ve evrensel sabitlerine dayandırarak yeniden yapılandırılmıştır. Bu yaklaşım, birimlerin tanımında daha büyük bir kesinlik, evrensellik ve süreklilik sağlar. Artık tüm SI temel birimleri, yedi sabitin sabitlenmiş sayısal değerleri üzerinden tanımlanmaktadır.
 
-![Doğa Sabitleri](Do%C4%9Fa%20sabitleri.jpg)
+![Doğa Sabitleri](../images/Do%C4%9Fa%20sabitleri.jpg)
 
 
 ### **3.5. SI Sisteminin Özellikleri**
@@ -259,7 +259,7 @@ Bu ön ekler, sayıların başına eklenen küçük hecelerden ibaret görünse 
 Bir "nano" ile DNA’nın yapısına iner, bir "giga" ile yıldızlararası veri akışını ölçersiniz.
 
 Ölçümde pratiklik, dilde sadelik ve anlamda evrensellik arayan bilim insanları için bu ön ekler, sayılarla kurulan cümlelerin yapı taşlarıdır. Metrik sistemin 10 tabanlı yapısı sayesinde, büyüklükler kolayca küçültülüp büyütülebilir; böylece bilimsel ifadeler hem daha okunabilir hem de daha karşılaştırılabilir hâle gelir.
-![Ön Ek](%C3%96n%20Ek.jpg)
+![Ön Ek](../images/%C3%96n%20Ek.jpg)
 
 **Uygulama ve Pekiştirme**
 
@@ -353,7 +353,7 @@ Modern tanım sayesinde kilogram, değişmez, tekrarlanabilir, evrensel bir öl�
 
 ### **4.5. Kütle Ölçekleri ve Kullanım Alanları**
 ---
-![Kütle](K%C3%BCtle.jpg)
+![Kütle](../images/K%C3%BCtle.jpg)
 
 **Uygulama ve Pekiştirme**
 
@@ -431,7 +431,7 @@ Bu tanım sayesinde metre, artık fiziksel bir nesneye değil, ışık hızına 
 
 ### **5.5. Uzunluk Ölçekleri ve Kullanım Alanları**
 ---
-![Uzunluk](Uzunluk.jpg)
+![Uzunluk](../images/Uzunluk.jpg)
 
 **Uygulama ve Pekiştirme**
 
@@ -508,7 +508,7 @@ Bu iki sistem arasında küçük farklılıklar oluştuğunda, artık saniye (le
 
 ### **6.6. Zaman Ölçekleri ve Kullanım Alanları**
 ---
-![Zaman](Zaman.jpg)
+![Zaman](../images/Zaman.jpg)
 
 **Uygulama ve Pekiştirme**
 
@@ -533,4 +533,4 @@ https://www.nist.gov/pml/time-and-frequency-division
 
 https://www.iers.org/IERS/EN/Home/home_node.html
 
-![Mass](Mass.PNG)
+![Mass](../images/Mass.PNG)
