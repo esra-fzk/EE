@@ -70,7 +70,7 @@ Stephen Hawking’in sözleriyle ifade edecek olursak:
 “Evren bir matematik kitabı gibidir; ancak bu kitabı okumak için fizik bilmek gerekir.”
 
 Evrendeki düzen, dört temel kuvvetin (kütleçekim, elektromanyetizma, zayıf ve güçlü nükleer kuvvetler) etkileşimi ile şekillenir. Bu kuvvetler, yalnızca fizik kuramları aracılığıyla tanımlanabilir ve anlaşılabilir.
-![Physics Everywhere](Physics%20Everywhere.PNG)
+![Physics Everywhere](../images/Physics%20Everywhere.PNG)
 
 **Uygulama ve Pekiştirme**
 
