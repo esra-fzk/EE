@@ -16,7 +16,7 @@ Bu repo, fizik derslerimde kullandığım ders notlarını ve görselleri içeri
 
 Bu repo içerisinde yer alan bazı ders notlarına örnek olarak aşağıdaki bağlantılardan ulaşabilirsiniz:
 
-- [Ders 1: Fizik ve Ölçme](lecture-notes/ders-1-fizik-ve-olcme.md)
+- [Ders 1 : Fizik ve Ölçme](lecture-notes/ders-1-fizik-ve-olcme.md)
 
 ## Kullanım Şartları
 
